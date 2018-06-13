@@ -1,3 +1,4 @@
 Git教程
     - fix-B
-    - feature-A 
+    - feature-A
+    - feature-C
