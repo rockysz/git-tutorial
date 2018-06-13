@@ -4,3 +4,4 @@ Git教程
     - feature-C
     - feature-D
     - new
+    - bugFix
